@@ -50,7 +50,7 @@ export const Navbarpayment=()=>{
         <AppBar style={{background:"white",boxShadow:"none",borderBottom:"1px dotted white !important"}}>
             <Toolbar> 
             <a href="bag">               
-            <img src="src/Components/Navbar/NavImage/loogo.png" width="70" alt="Myntra logo M png"  />
+            <img src="src/Components/Navbar/NavImage/loogo.png" width="70" alt=""  />
             </a>
             <Box sx={{ width: '100%'}} >
                 <Tabs value={value} onChange={handleChange} aria-label="nav tabs example" centered >
