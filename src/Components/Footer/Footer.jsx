@@ -29,7 +29,7 @@ export const Footer=() =>{
                     <img src={Social} alt="" /> */}
                 </div>
                 <div>
-                    <a href="https://github.com/Saavanx">
+                    <a href="https://github.com/Saavanxhttps://github.com/Saavanx/escape_matrix_grid5.0">
                         <img className={styles.footer4} src={Guarantee} alt="" />
                     </a>
                 </div>
