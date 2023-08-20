@@ -49,7 +49,7 @@ export default function Signup() {
          {/*Bootstrap  */}
          <Container>
          <img style={{width:"100%",marginBottom:"5%"}}
-               src="src/Components/Navbar/NavImage/Untitled.png"></img>
+               src="./src/Components/Navbar/NavImage/Untitled.png"></img>
             <Card>
                {/* <h2>Log In</h2> */}
                {error && <Alert variant="danger">{error}</Alert>}
